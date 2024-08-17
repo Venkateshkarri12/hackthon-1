@@ -53,7 +53,7 @@ A console-based Python application designed to manage patient health records, pa
 ## Screenshots
 
 ### 1. add patients & view reports
-![Main Menu](screenshot1.png)
+![add patients & view reports](screenshot1.jpeg)
 
 ### 2. Adding a Patient Record
 ![Add Patient](screenshot2.png)
