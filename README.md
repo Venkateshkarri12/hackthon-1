@@ -49,3 +49,21 @@ A console-based Python application designed to manage patient health records, pa
 
 - **Programming Language:** Python
 - **Data Handling:** CSV files and in-memory dictionary
+
+## Screenshots
+
+### 1. add patients & view reports
+![Main Menu](screenshot1.png)
+
+### 2. Adding a Patient Record
+![Add Patient](screenshot2.png)
+
+### 3. Viewing Reports
+![View Reports](screenshot3.png)
+
+### 4. Health Summary
+![Health Summary](screenshot4.png)
+
+### 5. Exporting Data
+![Export Data](screenshot5.png)
+
