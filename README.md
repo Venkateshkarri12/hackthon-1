@@ -53,17 +53,17 @@ A console-based Python application designed to manage patient health records, pa
 ## Screenshots
 
 ### 1. add patients & view reports
-![add patients & view reports](screenshot1.jpeg)
+![Add Patients & View reports](screenshot1.jpeg)
 
-### 2. Adding a Patient Record
-![Add Patient](screenshot2.png)
+### 2. Update & Search Record
+![Update & Search Record](screenshot2.jpeg)
 
-### 3. Viewing Reports
-![View Reports](screenshot3.png)
+### 3. Advanced search Reports
+![ Advanced search Reports](screenshot3.jpeg)
 
-### 4. Health Summary
-![Health Summary](screenshot4.png)
+### 4. Health Summary 
+![Health Summary](screenshot4.jpeg)
 
-### 5. Exporting Data
-![Export Data](screenshot5.png)
+### 5. Exporting Data 
+![Exporting Data](screenshot5.jpeg)
 
